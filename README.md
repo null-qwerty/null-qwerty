@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 </picture>
 
 - 👨‍🎓 student of HDU
-- 👥member of ~~CREL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
+- 👥member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 
 [![null-qwerty's GitHub stats](https://github-readme-stats.vercel.app/api?username=null-qwerty&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
