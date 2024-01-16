@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/null-qwerty/null-qwerty/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 👨‍🎓 student of HDU
-- 👥member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
+- 👨‍🎓Student of HDU
+- 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 
 [![null-qwerty's GitHub stats](https://github-readme-stats.vercel.app/api?username=null-qwerty&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
