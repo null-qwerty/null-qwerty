@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 
 - 👨‍🎓Student of HDU
 - 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
+- RMer
 
 [![null-qwerty's GitHub stats](https://github-readme-stats.vercel.app/api?username=null-qwerty&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
