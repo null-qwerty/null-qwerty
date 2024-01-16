@@ -1,4 +1,4 @@
-### Hi there 👋
+### <Hello, World 👋 />
 
 <!--
 **null-qwerty/null-qwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👨‍🎓 student of HDU
+- 👥member of ~~CREL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
+
 [![null-qwerty's GitHub stats](https://github-readme-stats.vercel.app/api?username=null-qwerty&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
