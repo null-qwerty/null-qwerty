@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/null-qwerty/null-qwerty/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 👨‍🎓Student of HDU
+- 👨‍🎓Undergraduate of HDU
 - 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 - RMer
 
