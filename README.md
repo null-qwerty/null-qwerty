@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 [![null-qwerty's GitHub stats](https://api-github-readme-stats.null-qwerty.top/api?username=null-qwerty&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://api-github-readme-stats.null-qwerty.top/api/top-langs/?username=null-qwerty&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://api-github-readme-stats.null-qwerty.top/api/top-langs/?username=null-qwerty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
