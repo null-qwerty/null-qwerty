@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 - RMer
 
-[![null-qwerty's GitHub stats](https://api-github-readme-stats.null-qwerty.top/api?username=null-qwerty&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![null-qwerty's GitHub stats](https://api-github-readme-stats.null-qwerty.top/api?username=null-qwerty&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
