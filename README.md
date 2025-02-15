@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/null-qwerty/null-qwerty/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 👨‍🎓Undergraduate of HDU
-- 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
+- 👨‍🎓Undergraduate of HDU, major in automatization
+- 👥Member of ~~CTRL~~ CV group and embedded group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 - RMer
 
 [![null-qwerty's GitHub stats](https://api-github-readme-stats.null-qwerty.top/api?username=null-qwerty&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
