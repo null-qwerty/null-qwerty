@@ -1,36 +1,66 @@
-# <Hello, World!👋/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/null-qwerty/null-qwerty/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/null-qwerty/null-qwerty/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/null-qwerty/null-qwerty/output/github-contribution-grid-snake.svg">
-</picture>
+# <Hello, World!👋 I'm null-qwerty/>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Welcome+to+my+profile+page!" alt="Typing SVG" /></a>
+</div>
 
 ## About Me
 
 - 👨‍🎓 Undergraduate of HDU, major in automatization
-- 👥 Member of ~~CTRL~~ CV group and embedded group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
+- 👥 Member of vision group and embedded group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 
 ## 🛠️ Technologies & Tools
-```text
-Languages  : C/C++, Python
-Tools      : Git, GitHub, Docker, Cmake
-OS         : Windows, Ubuntu
-```
+
+![Static Badge](https://img.shields.io/badge/languages-grey?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+![Static Badge](https://img.shields.io/badge/tools-grey?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Static Badge](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Static Badge](https://img.shields.io/badge/hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)
+![Static Badge](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/os-grey?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/windows-blue?style=for-the-badge)
+
+## 📚 Learning
+
+![Static Badge](https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Static Badge](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Static Badge](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Static Badge](https://img.shields.io/badge/stm32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Static Badge](https://img.shields.io/badge/freertos-green?style=for-the-badge)
+
+I'm learning computer vision and embedded systems design.
 
 ## 📊 GitHub Stats
 
-[![null-qwerty's GitHub stats](https://api-github-readme-stats.null-qwerty.top/api?username=null-qwerty&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![null-qwerty's GitHub stats](https://api-github-readme-stats.null-qwerty.top/api?username=null-qwerty&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=null-qwerty&theme=transparent)](https://git.io/streak-stats)
+![](https://github-readme-activity-graph.vercel.app/graph?username=null-qwerty&theme=github-compact&hide_border=true&area=true)
 
 ## 📫 How to reach me
-- GitHub: [@null-qwerty](https://github.com/null-qwerty)
-- Blog: [null-qwerty's Blog](https://www.null-qwerty.top)
+
+Feel free to contact me 😋
+
+[![Static Badge](https://img.shields.io/badge/github-%40null--qwerty-181717)](https://github.com/null-qwerty)
+[![Static Badge](https://img.shields.io/badge/telegram-%40null__qwerty-26A5E4)](https://t.me/null_qwerty)
+[![Static Badge](https://img.shields.io/badge/discord-%40nullqwerty-5865F2)](https://discord.gg/BQKw9dsW)
+[![Static Badge](https://img.shields.io/badge/email-null--qwerty%40outlook.com-8A4182)](mailto:null-qwerty@outlook.com)
+[![Static Badge](https://img.shields.io/badge/personal_site-https%3A%2F%2Fblog.null--qwerty.work-blue)](https://blog.null-qwerty.work)
+
 
 ---
 
 ![](https://images.null-qwerty.work/blog/bg.webp)
-
-<div align="center">
-Wish you have a good day!
-</div>
