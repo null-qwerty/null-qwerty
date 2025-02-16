@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 👨‍🎓 Undergraduate of HDU, major in automatization
+- 👨‍🎓 Undergraduate of Hangzhou Dianzi University(HDU), majoring in automatization
 - 👥 Member of vision group and embedded group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 
 ## 🛠️ Technologies & Tools
