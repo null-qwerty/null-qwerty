@@ -29,6 +29,8 @@ OS         : Windows, Ubuntu
 
 ---
 
+![](https://images.null-qwerty.work/blog/bg.webp)
+
 <div align="center">
 Wish you have a good day!
 </div>
