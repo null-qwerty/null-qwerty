@@ -1,9 +1,9 @@
 
 # <Hello, World!👋 I'm null-qwerty/>
 
-<div align="center">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Welcome+to+my+profile+page!" alt="Typing SVG" /></a>
-</div>
+</p>
 
 ## About Me
 
