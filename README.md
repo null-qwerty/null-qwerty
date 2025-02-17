@@ -51,7 +51,7 @@ I'm learning computer vision and embedded systems design.
 
 <p align="center">
 <img width=400 src="https://api-github-readme-stats.null-qwerty.top/api?username=null-qwerty&show_icons=true&hide_border=true&theme=transparent" />
-<img width=400 src="https://streak-stats.demolab.com?user=null-qwerty&hide_border=true&theme=transparent" />
+<a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats-seven-rho.vercel.app?user=null-qwerty&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
 <img width=800 src="https://github-readme-activity-graph-dun.vercel.app/graph?username=null-qwerty&theme=github-compact&hide_border=true&area=true" />
