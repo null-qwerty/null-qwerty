@@ -50,11 +50,11 @@ I'm learning computer vision and embedded systems design.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img width=400 src="https://api-github-readme-stats.null-qwerty.top/api?username=null-qwerty&show_icons=true&hide_border=true&theme=transparent" />
+<a herf="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://api-github-readme-stats.null-qwerty.top/api?username=null-qwerty&show_icons=true&hide_border=true&theme=transparent" /></a>
 <a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats-seven-rho.vercel.app?user=null-qwerty&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-<img width=800 src="https://github-readme-activity-graph-dun.vercel.app/graph?username=null-qwerty&theme=github-compact&hide_border=true&area=true" />
+<a herf="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width=800 src="https://github-readme-activity-graph-dun.vercel.app/graph?username=null-qwerty&theme=github-compact&hide_border=true&area=true" /></a>
 </p>
 
 ## 📫 How to reach me
