@@ -65,9 +65,3 @@ Feel free to contact me 😋
 [![Static Badge](https://img.shields.io/badge/discord-%40nullqwerty-5865F2)](https://discord.gg/BQKw9dsW)
 [![Static Badge](https://img.shields.io/badge/email-null--qwerty%40outlook.com-8A4182)](mailto:null-qwerty@outlook.com)
 [![Static Badge](https://img.shields.io/badge/personal_site-https%3A%2F%2Fblog.null--qwerty.work-blue)](https://blog.null-qwerty.work)
-
-
----
-
-![](https://images.null-qwerty.work/blog/bg.webp)
-
