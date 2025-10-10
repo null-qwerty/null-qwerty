@@ -1,4 +1,4 @@
-<img src="https://images.null-qwerty.work/mea.png" width = "25%" height = "25%" alt="Mea" align=right />
+<img src="https://images.null-qwerty.work/mea.png" width = "25%" height = "25%" alt="Mea" align=right style="position: relative; z-index: 999;" />
 
 # <Hello, World!👋 I'm null-qwerty/>
 
