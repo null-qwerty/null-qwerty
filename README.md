@@ -13,6 +13,7 @@
 
 - 👨‍🎓 B.E. in Automation, Hangzhou Dianzi University
 - 👥 Member of vision group and embedded group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX) (2024 - 2025)
+- 🤖 Embodied Intelligence Ego Data Algorithm Engineer of [@LimX Dynamics](https://github.com/limxdynamics) (2026 - )
 
 ## 🛠️ Technologies & Tools
 
